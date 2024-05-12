@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0639\u0628\u062F \u0627\u0644\u0631\u062D\u0645\u0646\\Course-5 Projects\\Project #2 Math-Game\\Math-Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CD7E89-41E2-4382-939E-E109616C9D07}|Math-Game\\Math-Game.vcxproj|D:\\\u0639\u0628\u062F \u0627\u0644\u0631\u062D\u0645\u0646\\Course-5 Projects\\Project #2 Math-Game\\Math-Game\\Math-Game\\Math-Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5CD7E89-41E2-4382-939E-E109616C9D07}|Math-Game\\Math-Game.vcxproj|solutionrelative:Math-Game\\Math-Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1371,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Math-Game.cpp",
+              "DocumentMoniker": "D:\\\u0639\u0628\u062F \u0627\u0644\u0631\u062D\u0645\u0646\\Course-5 Projects\\Project #2 Math-Game\\Math-Game\\Math-Game\\Math-Game.cpp",
+              "RelativeDocumentMoniker": "Math-Game\\Math-Game.cpp",
+              "ToolTip": "D:\\\u0639\u0628\u062F \u0627\u0644\u0631\u062D\u0645\u0646\\Course-5 Projects\\Project #2 Math-Game\\Math-Game\\Math-Game\\Math-Game.cpp",
+              "RelativeToolTip": "Math-Game\\Math-Game.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-01-05T19:22:05.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
